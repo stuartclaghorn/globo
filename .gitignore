@@ -1,0 +1,6 @@
+app/views/.googleapis
+node_modules/**
+web_build/**
+.expo/**
+android/**
+ios/**
